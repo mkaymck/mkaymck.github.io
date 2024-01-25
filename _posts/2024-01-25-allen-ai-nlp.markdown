@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Paul Allen AI COVID19 NLP
-permalink: /about/
+permalink: /allen-ai/
 ---
 
 Save for math camps in early childhood, my official introduction to the computer science field was in May of 2020, at the beginning of the COVID-19 pandemic. Because of my prior experience in biotechnology, I was asked to use AI as a tool to improve health outcomes in response to the public health emergency at the Allen Institute for AI. Any and all background knowledge on respiratory illnesses was needed in order to help doctors and scientists achieve a timely solution.
