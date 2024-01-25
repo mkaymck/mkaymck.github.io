@@ -8,6 +8,6 @@ Hi! I'm Megan Mckenzie, a Data Science masters student at Dartmouth College stud
 
 My background includes 5 years of research and work in traditional AI as well as machine and deep learning, both in natural language processing and computer vision. Currently, I am studying robotic motion planning (kinematics, inverse differential kinematics, etc) and researching the application of deep learning for predicting seizure onset in patients with brain tumors at Dartmouth Hitchcock Medical Center.
 
-:warning: :hammer: Github currently under construction :hammer: :warning
+:warning: :hammer: Github currently under construction :hammer: :warning:
 
 In my spare time, I really enjoy golfing, reading inspiring books, and going on walks.
