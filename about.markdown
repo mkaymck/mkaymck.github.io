@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Megan Mckenzie, a Data Science masters student at Dartmouth College studying and researching Artificial Intelligence.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My background includes 5 years of research and work in traditional AI as well as machine and deep learning, both in natural language processing and computer vision. Currently, I am studying robotic motion planning (kinematics, inverse differential kinematics, etc) and researching the application of deep learning for predicting seizure onset in patients with brain tumors at Dartmouth Hitchcock Medical Center.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Previously, I studied computer science and chemistry at Smith College.
 
+:warning: :hammer: Github currently under construction :hammer: :warning:
 
-[jekyll-organization]: https://github.com/jekyll
+I graduate June 2024 and am excited for what's more to come in my career.
