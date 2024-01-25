@@ -1,13 +1,9 @@
 ---
 layout: page
-title: About
+title: Paul Allen AI COVID19 NLP
 permalink: /about/
 ---
 
-Hi! I'm Megan Mckenzie, a Data Science masters student at Dartmouth College studying and researching Artificial Intelligence. Previously, I studied computer science and chemistry at Smith College.
+Save for math camps in early childhood, my official introduction to the computer science field was in May of 2020, at the beginning of the COVID-19 pandemic. Because of my prior experience in biotechnology, I was asked to use AI as a tool to improve health outcomes in response to the public health emergency at the Allen Institute for AI. Any and all background knowledge on respiratory illnesses was needed in order to help doctors and scientists achieve a timely solution.
+	I read hundreds of respiratory illness-related research abstracts and performed relationship extraction to produce a database containing relationships between entities from raw text. As a result, I was able to rapidly procure relevant and useful information for professionals at a rate of over 600 abstracts a day. This database would later be used as a search-engine style product for health professionals.
 
-My background includes 5 years of research and work in traditional AI as well as machine and deep learning, both in natural language processing and computer vision. Currently, I am studying robotic motion planning (kinematics, inverse differential kinematics, etc) and researching the application of deep learning for predicting seizure onset in patients with brain tumors at Dartmouth Hitchcock Medical Center.
-
-🔨 🚧 Github currently under construction 🚧 🔨
-
-In my spare time, I really enjoy golfing, reading inspiring books, and going on walks.
