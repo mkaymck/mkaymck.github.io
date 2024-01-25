@@ -5,5 +5,5 @@ title: Projects
 
 # My Projects
 
-- [Allen AI NLP](/projects/allen-ai-nlp/) <!-- Link to the project page -->
-- [Commonsense LLMS](/projects/commonsense-llms/) <!-- Link to the project page -->
+- [Allen AI NLP](_projects/allen-ai-nlp.md) <!-- Link to the project page -->
+- [Commonsense LLMS](_projects/commonsense-llms/) <!-- Link to the project page -->
