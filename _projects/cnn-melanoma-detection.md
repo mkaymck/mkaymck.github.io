@@ -2,6 +2,7 @@
 layout: page
 title: Convolutional Neural Networks for Melanoma Detection
 description: Advancing Personalized Medicine through Machine Learning
+---
 
 # Customizing Google Inception v3
 
