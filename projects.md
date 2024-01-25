@@ -5,4 +5,4 @@ title: Projects
 
 # Projects
 
-- [Project 1](/projects/project1/) <!-- Link to project page -->
+- [Allen AI COVID-19 NLP](/projects/allen-ai-nlp/) <!-- mkaymck.github.io/allen-ai-nlp -->
