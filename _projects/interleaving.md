@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cognitive AI: Interleaving TALE-SPIN and GPT-3
+title: Cognitive AI, Interleaving TALE-SPIN and GPT-3
 description: Combining symbolic systems with LLMs
 ---
 
