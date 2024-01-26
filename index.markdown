@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Alt text](image.jpg)
