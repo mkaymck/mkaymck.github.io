@@ -57,5 +57,7 @@ social:
 collections:
   projects:
     output: true
+  More AI:
+    output: true
 #    permalink: /projects/:Allen AI COVID NLP
 
