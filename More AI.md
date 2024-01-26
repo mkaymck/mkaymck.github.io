@@ -3,7 +3,9 @@ layout: default
 title: More AI
 ---
 
-# Smaller AI Projects
+# More AI
+
+Smaller AI Projects
 
 - Foxes and Chickens (uninformed search)
 - Maze World (sensorless robots, A* search)
