@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Other AI
 ---
 
 # Small AI Projects
@@ -13,4 +13,4 @@ title: Projects
 - Hidden Markov Models
 - Motion Planning: Probabalistic Roadmap (PRM) and RRT
 
-Will be uploaded to github soon 👷
+Will be uploaded to my new github soon 👷
