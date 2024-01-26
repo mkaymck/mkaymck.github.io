@@ -10,4 +10,4 @@ My background includes 4 years of research and work in traditional AI as well as
 
 👷🔨 🚧 Github currently under construction 🚧 🔨👷
 
-In my spare time, I really enjoy golfing, reading inspiring books, and going on walks.
+In my spare time, I enjoy golfing, reading inspiring books, and going on walks.
