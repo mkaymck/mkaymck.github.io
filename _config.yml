@@ -53,15 +53,3 @@ social:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-collections:
-  projects:
-    output: true
-  publications:
-    output: true
-  More AI:
-    output: true
-  About:
-    output: true
-#    permalink: /projects/:Allen AI COVID NLP
-
