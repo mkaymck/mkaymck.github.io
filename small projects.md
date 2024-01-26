@@ -11,6 +11,6 @@ title: Projects
 - Constraint Satisfaction (map coloring, circuit board puzzle, back trackers, heuristics)
 - Sudoku AI
 - Hidden Markov Models
-- Motion Planning: Probabalistic Roadmap (PRM) and RRT Assignment
+- Motion Planning: Probabalistic Roadmap (PRM) and RRT
 
 Will be uploaded to github soon 👷
