@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Other AI
+title: More AI
 ---
 
-# Small AI Projects
+# Smaller AI Projects
 
 - Foxes and Chickens (uninformed search)
 - Maze World (sensorless robots, A* search)
