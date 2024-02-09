@@ -8,7 +8,7 @@ permalink: /More AI/
 
 Smaller AI Projects
 
-- [Allen AI NLP](_projects/allen-ai-nlp.md) <!-- Link to the project page -->
+- [Uninformed Search](_More AI/uninformedsearch.md) <!-- Link to the project page -->
 
 - Foxes and Chickens (uninformed search)
 - Maze World (sensorless robots, A* search)
