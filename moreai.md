@@ -8,7 +8,7 @@ permalink: /moreai/
 
 Smaller AI Projects
 
-- [Uninformed Search (Foxes and Chickens](_moreai/uninformedsearch.md) <!-- Link to the project page -->
+- [Uninformed Search (Foxes and Chickens)](_moreai/uninformedsearch.md) <!-- Link to the project page -->
 
 - Foxes and Chickens (uninformed search)
 - Maze World (sensorless robots, A* search)
