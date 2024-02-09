@@ -1,6 +1,7 @@
 ---
 layout: default
 title: More AI
+permalink: /More AI/
 ---
 
 # More AI
